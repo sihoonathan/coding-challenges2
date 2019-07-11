@@ -1,1 +1,7 @@
-./html linguist-vendored
+00_hello/index.html linguist-vendored
+01_temperature/index.html linguist-vendored
+02_calculator/index.html linguist-vendored
+03_simon_says/index.html linguist-vendored
+04_pig_latin/index.html linguist-vendored
+05_book_titles/index.html linguist-vendored
+06_timer/index.html linguist-vendored
